@@ -17,7 +17,7 @@ Then include it in your main config file:
 ```
 # ~/.config/kitty/kitty.conf
 
-include snazzy.conf
+include palenight.conf
 ```
 
 ## License
