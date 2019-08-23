@@ -1,4 +1,4 @@
-# kitty-snazzy
+# kitty-palenight
 
 > [kitty](https://github.com/kovidgoyal/kitty) theme based on the Palenight color variant of [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) for VSCode.
 
